@@ -1,0 +1,32 @@
+[
+  {
+    "region": "India",
+    "country_code": "in",
+    "url": "google.co.in",
+    "languages": [
+      {
+        "name": "English",
+        "code": "en"
+      },
+      {
+        "name": "Hindi",
+        "code": "hi"
+      }
+    ]
+  },
+  {
+    "region": "United Arab Emirates",
+    "country_code": "ae",
+    "url": "google.ae",
+    "languages": [
+      {
+        "name": "Arabic",
+        "code": "ar"
+      },
+      {
+        "name": "English",
+        "code": "en"
+      }
+    ]
+  }
+]
